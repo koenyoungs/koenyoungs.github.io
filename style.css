@@ -5,3 +5,8 @@ body {
   color: #444;
   text-align: center;
 }
+
+.center
+{
+    margin: 0 auto;
+}

@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: white;
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   color: #444;
@@ -9,4 +9,14 @@ body {
 .center
 {
     margin: 0 auto;
+}
+.inline
+{
+    display: inline;
+    
+}
+.inline img{
+    display: inline;
+    height: 100px;
+    width:100px;
 }

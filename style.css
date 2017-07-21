@@ -21,3 +21,6 @@ body {
     width:100px;
     
 }
+.inline ul
+{
+    display: block;
